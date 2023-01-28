@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo en Js",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/callback/index.js",
+    "devApi": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "async"
+  ],
+  "author": "Cristian Montoya",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
