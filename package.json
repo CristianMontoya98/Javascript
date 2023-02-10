@@ -8,7 +8,9 @@
     "devApi": "node src/callback/challenge.js",
     "promise": "node src/promise/index.js",
     "promiseChallenge": "node src/promise/challenge.js",
-    "async": "node src/async/index.js"
+    "async": "node src/async/index.js",
+    "asyncChallenge": "node src/async/challenge.js"
+    
   },
   "keywords": [
     "callbacks",
